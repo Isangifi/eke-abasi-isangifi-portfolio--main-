@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-main: #0a0f0d;
+    --bg-secondary: #0d1411;
+    --surface: #121a17;
+    --surface-hover: #17221e;
+    --surface-border: rgba(243, 240, 230, 0.09);
+    --surface-border-strong: rgba(243, 240, 230, 0.18);
+    --ink: #f3f0e6;
+    --ink-dim: #aab3ac;
+    --ink-faint: #6f7a74;
+    --emerald: #2ea88a;
+    --emerald-bright: #42c9a8;
+    --gold: #cf9f4f;
+    --gold-bright: #e6b968;
+    --font-serif: 'Fraunces', serif;
+    --font-sans: 'Manrope', sans-serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    color-scheme: dark;
+    background-color: var(--bg-main);
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--bg-main);
+    color: var(--ink);
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: var(--font-serif);
+    letter-spacing: -0.015em;
+  }
+}
+
+/* Custom utility classes */
+.font-serif-display {
+  font-family: 'Fraunces', serif;
+}
+
+.font-sans-body {
+  font-family: 'Manrope', sans-serif;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0f0d;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(243, 240, 230, 0.15);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(46, 168, 138, 0.4);
+}
