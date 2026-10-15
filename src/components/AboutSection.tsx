@@ -96,7 +96,7 @@ export const AboutSection: React.FC = () => {
                       Eke-Abasi Isangifi
                     </h3>
                     <p className="text-xs text-[#aab3ac] mt-0.5">
-                      Digital Solutions &amp; Infrastructure
+                      Web Developer and Digital Technologist
                     </p>
                   </div>
                   <div className="flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[#182620] border border-[#2ea88a]/30 text-[11px] font-medium text-[#42c9a8] whitespace-nowrap shadow-sm">
