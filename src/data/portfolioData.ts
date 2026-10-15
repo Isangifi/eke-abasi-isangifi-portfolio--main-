@@ -52,8 +52,8 @@ export const CASE_STUDIES: CaseStudy[] = [
     ],
     accentColor: '#2ea88a',
     previewType: 'website',
-    imageWebp: '/images/ven-technologies.webp',
-    image: '/images/ven-technologies.jpg'
+    imageWebp: `${import.meta.env.BASE_URL}images/ven-technologies.webp`,
+    image: `${import.meta.env.BASE_URL}images/ven-technologies.jpg`
   },
   {
     id: 'littlenest',
@@ -73,8 +73,8 @@ export const CASE_STUDIES: CaseStudy[] = [
     ],
     accentColor: '#cf9f4f',
     previewType: 'ecommerce',
-    imageWebp: '/images/littlenest-store.webp',
-    image: '/images/littlenest-store.jpg'
+    imageWebp: `${import.meta.env.BASE_URL}images/littlenest-store.webp`,
+    image: `${import.meta.env.BASE_URL}images/littlenest-store.jpg`
   },
   {
     id: 'founder-ops',
@@ -94,8 +94,8 @@ export const CASE_STUDIES: CaseStudy[] = [
     ],
     accentColor: '#42c9a8',
     previewType: 'system',
-    imageWebp: '/images/founder-inbox-os.webp',
-    image: '/images/founder-inbox-os.jpg'
+    imageWebp: `${import.meta.env.BASE_URL}images/founder-inbox-os.webp`,
+    image: `${import.meta.env.BASE_URL}images/founder-inbox-os.jpg`
   }
 ];
 
