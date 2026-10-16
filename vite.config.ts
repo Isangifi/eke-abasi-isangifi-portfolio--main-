@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: process.env.GITHUB_ACTIONS === 'true' ? '/eke-abasi-isangifi-portfolio--main-/' : '/',
+    base: process.env.GITHUB_ACTIONS === 'true' ? '/isangifiJr/' : '/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://isangifi.github.io/eke-abasi-isangifi-portfolio--main-/sitemap.xml
+Sitemap: https://isangifi.github.io/isangifiJr/sitemap.xml

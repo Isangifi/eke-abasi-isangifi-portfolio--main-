@@ -5,13 +5,13 @@
 The portfolio describes professional services and selected projects. It is a single-page website; the links below point to sections of that page.
 
 ## About
-- [About Eke-Abasi Isangifi](https://isangifi.github.io/eke-abasi-isangifi-portfolio--main-/#about): background and approach to practical business technology.
+- [About Eke-Abasi Isangifi](https://isangifi.github.io/isangifiJr/#about): background and approach to practical business technology.
 
 ## Services
-- [Services](https://isangifi.github.io/eke-abasi-isangifi-portfolio--main-/#services): business websites and e-commerce, business technology and cloud support, digital systems and automation, and digital technology consulting.
+- [Services](https://isangifi.github.io/isangifiJr/#services): business websites and e-commerce, business technology and cloud support, digital systems and automation, and digital technology consulting.
 
 ## Selected work
-- [Portfolio projects](https://isangifi.github.io/eke-abasi-isangifi-portfolio--main-/#work): selected website, e-commerce, and digital operations case studies.
+- [Portfolio projects](https://isangifi.github.io/isangifiJr/#work): selected website, e-commerce, and digital operations case studies.
 
 ## Contact
-- [Contact Eke-Abasi](https://isangifi.github.io/eke-abasi-isangifi-portfolio--main-/#contact)
+- [Contact Eke-Abasi](https://isangifi.github.io/isangifiJr/#contact)
