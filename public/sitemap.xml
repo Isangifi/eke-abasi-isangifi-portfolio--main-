@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://isangifi.github.io/eke-abasi-isangifi-portfolio--main-/</loc>
+    <image:image>
+      <image:loc>https://isangifi.github.io/eke-abasi-isangifi-portfolio--main-/images/eke-abasi-portrait.jpg</image:loc>
+      <image:title>Eke-Abasi Isangifi, web developer and digital technologist</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://isangifi.github.io/eke-abasi-isangifi-portfolio--main-/images/ven-technologies.jpg</image:loc>
+      <image:title>VEN Technologies business website project</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://isangifi.github.io/eke-abasi-isangifi-portfolio--main-/images/littlenest-store.jpg</image:loc>
+      <image:title>LittleNest Kids Essentials e-commerce project</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://isangifi.github.io/eke-abasi-isangifi-portfolio--main-/images/founder-inbox-os.jpg</image:loc>
+      <image:title>Founder Inbox and Calendar workflow project</image:title>
+    </image:image>
+  </url>
+</urlset>
